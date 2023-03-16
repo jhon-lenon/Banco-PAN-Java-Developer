@@ -1,4 +1,9 @@
 <h1 align="center"> 📚 Bootcamp Banco-PAN-Java-Developer </h1>
+
+## 👀 Descrição  
+<strong>O primeiro programa do Banco PAN em parceria com a DIO, uma trilha completa em Java Spring Boot e 5 mil bolsas de estudo disponíveis. É indicado para pessoas de baixa renda e de grupos sub representados que estão em busca de sua primeira formação no universo da tecnologia, entretanto, qualquer pessoa interessada pode participar.</strong>  
+
+#
  
 ![CertificadoBootcampPAN](https://user-images.githubusercontent.com/116371262/225710267-b563eeb8-b1ed-410a-9eba-37cdd6bee753.png)
 
@@ -65,9 +70,10 @@
   🔸 Desafio: Táxa de Imposto de Renda  
   ⭐️ Avaliando o Bootcamp
   
-  ## 📚 Mentorias
-    🤝 Mentoria(Live) Solid e Boas Práticas  
+## 📚 Mentorias
+    🤝 Mentoria(Live) Piramide de Testes e TDD  
+    🤝 Mentoria(Live) Solid e Boas Práticas 
     🤝 Mentoria(Live) Overview de Computação em Nuvem  
-    🤝 Mentoria(Live) Engenharia de Confiabilidade de Site (SRE)  
+    🤝 Mentoria(Live) Engenharia de Confiabilidade de Site (SRE)  🛑 Aguardando
     🤝 Mentoria(Live) Como Trabalhamos e Como Entregamos Performace  🛑 Aguardando
     🤝 Mentoria(Live) Dicas Para se Tornar um Desenvolvedor de Sucesso  🛑 Aguardando
