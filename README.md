@@ -58,7 +58,7 @@
   🔹 Curso: Imersão no Spring Framework com Spring Boot  
   🔹 Curso: Criando uma API REST Documentada com Spring Web e Swagger  
   🔹 Curso: Adicionando Segurança a uma API REST com Spring Security  
-  🔹 Curso: Conhecendo Spring Data JPA na Prática com Java
+  🔹 Curso: Conhecendo Spring Data JPA na Prática com Java  
   🔹 Curso: Criando uma API REST Conectada ao Amazon RDS com Java  
   🔹 Curso: Explorando Padrões de Projeto na Pratica com Java  
 
