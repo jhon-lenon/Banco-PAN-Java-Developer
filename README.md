@@ -75,5 +75,5 @@
     🤝 Mentoria(Live) Solid e Boas Práticas 
     🤝 Mentoria(Live) Overview de Computação em Nuvem  
     🤝 Mentoria(Live) Engenharia de Confiabilidade de Site (SRE) 
-    🤝 Mentoria(Live) Como Trabalhamos e Como Entregamos Performace  🛑 Aguardando
-    🤝 Mentoria(Live) Dicas Para se Tornar um Desenvolvedor de Sucesso  🛑 Aguardando
+    🤝 Mentoria(Live) Como Trabalhamos e Como Entregamos Performace  
+    🤝 Mentoria(Live) Dicas Para se Tornar um Desenvolvedor de Sucesso  
